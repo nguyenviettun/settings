@@ -1,0 +1,33 @@
+{
+    "editor.insertSpaces": true,
+    "editor.fontFamily": "\"hack\"",
+    "files.autoSave": "afterDelay",
+    "editor.fontWeight": "500",
+    "workbench.fontAliasing": "auto",
+    "extensions.ignoreRecommendations": true,
+    "workbench.activityBar.visible": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.sideBar.location": "left",
+    "editor.fontSize": 15,
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block-outline",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.rendererType": "canvas",
+    "terminal.integrated.fontFamily": "menlo",
+    "[python]": {
+        "editor.tabSize": 4,
+    },
+    "[ruby]": {
+        "editor.tabSize": 2,
+    },
+    "[html.erb]": {
+        "editor.tabSize": 2,
+    },
+    "workbench.iconTheme": "material-icon-theme"
+}
